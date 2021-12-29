@@ -11,3 +11,7 @@ Many years ago I worked as a programmer, then I had to become an accountant, but
 - Git
 - Some Windows and Linux administration
 
+## Code Samples
+
+[My profile on discord](https://www.codewars.com/users/diniles)
+
