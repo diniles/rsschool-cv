@@ -15,3 +15,8 @@ Many years ago I worked as a programmer, then I had to become an accountant, but
 
 [My profile on discord](https://www.codewars.com/users/diniles)
 
+## Education
+
+Medical college
+
+Some oline courses
