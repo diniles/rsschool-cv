@@ -8,6 +8,10 @@
     }
 }
 
+header {
+    background: burlywood;
+}
+
 .nav-list {
     display: flex;
     justify-content: flex-end;
@@ -44,6 +48,10 @@ body {
     justify-content: space-between;
 }
 
+#photo {
+
+}
+
 .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -76,6 +84,14 @@ body {
     color: #4d2323;
 }
 
-#photo {
+footer {
+    background: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
 
+.footer-logo {
+    margin: 10px auto;
+    width: 30%;
+    height: auto;
 }
