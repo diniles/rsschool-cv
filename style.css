@@ -4,4 +4,7 @@
 
 body {
     font-family: 'PT Serif', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
