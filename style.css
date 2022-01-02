@@ -2,6 +2,12 @@
     box-sizing: border-box;
 }
 
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
 body {
     font-family: 'PT Serif', serif;
     display: flex;
