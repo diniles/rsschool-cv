@@ -27,6 +27,10 @@ body {
     transition: .3s;
 }
 
+.section-title {
+
+}
+
 .section-item a {
     color: #829985;
     text-decoration: none;
